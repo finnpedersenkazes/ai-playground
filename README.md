@@ -239,16 +239,6 @@ git submodule add https://github.com/JeremyVyska/bc-code-intelligence .al-guidel
 
 [Workshop Setup](https://github.com/JeremyVyska/DirectionsEmea2025-Workshop/blob/main/SETUP.md)
 
-### AL-Guidelines-Custom-Rules
-
-My set of instructions to the AI on how to write AL code
-
-From the root of your BC repository use this command.
-
-```bash
-git submodule add https://github.com/finnpedersenkazes/AL-Guidelines-Custom-Rules .al-guidelines-custom-rules
-```
-
 ### 🚀 AL Development Collection
 
 This tool gives you a collection of AL agents
