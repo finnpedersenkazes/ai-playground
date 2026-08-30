@@ -1,3 +1,5 @@
+
+
 # AI Playground
 
 Getting up to speed with modern development techniques and AI in development. 
@@ -145,7 +147,7 @@ You should not have a local `mcp.json` in the root. If you have it is installed 
 
 ## Visual Studio Code Extensions
 
-Check that you these extensions.
+Check that you have these extensions.
 
 ### Business Central / AL
 - andrzejzwierzchowski.al-code-outline
